@@ -15,13 +15,13 @@
 
 ---
 
-**ReSeeder** is a free Windows utility that instantly seeds movies and TV shows you already have on disk to **Kinozal**, **RuTracker** and other trackers — skipping hash checks. It finds already-downloaded files on your drive and starts seeding in **seconds**. No rehashing, no re-downloading.
+**ReSeeder** is a free Windows utility that instantly seeds movies and TV shows you already have on disk to **Kinozal**, **RuTracker** and other trackers — skipping hash checks. It finds already-downloaded files on your drive and starts seeding in **seconds** (cross-seeding existing data). No rehashing, no re-downloading.
 
 > ℹ️ This repository is a **project showcase** — the application source code is not published here. Downloads and full details are at **[reseeder.app](https://reseeder.app)**.
 
 ## Features
 
-- ⚡ **Instant seeding** — put already-downloaded files back into seeding in seconds, without re-checking hashes.
+- ⚡ **Instant cross-seeding** — put already-downloaded files back into seeding (cross-seed existing data) in seconds, without re-checking hashes.
 - 🔎 **Finds renamed files** — matches your files to torrents even if they were renamed, by hashing only the first and last piece.
 - 📦 **Seeds what you have** — seeds the files actually present on disk, no re-downloading.
 - 🔗 **One file, multiple trackers** — a single local file can be seeded to several trackers at once.
